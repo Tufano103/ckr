@@ -1,0 +1,151 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#login{
+  margin-top: -10px;
+  /* width: 1450px; */
+  /* width: auto; */
+  height: 60px;
+  background-color: black;
+  margin-left: -150px;
+  padding-left: 250px;
+  padding-top: 17px;
+}
+.flikr{
+  padding-left: 120px !important;
+}
+#blue{
+  width: 100%;
+  height: 600px;
+  position: relative;
+}
+.kr{
+  position: relative;
+  top: 20px;
+  left: 145px;
+ }
+/* section{
+  width: 350px;
+  height: 570px;
+  background-color: white;
+  position: relative;
+  top: 160px;
+  left: 500px;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  transform: translateY(-160px);
+} */
+  .con2{
+    width: 350px;
+  height: 270px;
+  background-color: white;
+  position: absolute;
+  top: 200px;
+  left: 500px;
+  }
+  .login{
+    width: 200px;
+    position: absolute;
+    top: 45px;
+    left: 50px;
+    line-height: 26px;
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: "Proxima Nova Helveticasans-serif";
+    color: #212124;
+    border: 2px solid transparent;
+    border: 1px solid transparent;
+  }
+  input{
+  padding-left: -100px !important;
+  box-shadow: none !important;
+  /* outline: none !important; */
+  }
+  #input{
+  position: relative;
+  left: -50px;
+    margin-top: 15px;
+    height: 60px;
+    width: 300px;
+  padding-left: -100px !important;
+  }
+  button{
+    position: absolute;
+    top: 180px;
+    width: 300px;
+    left: 30px;
+    background-color: #128fdc;
+    color: white;
+    height: 40px;
+    border: 2px solid transparent;
+    border-radius: 4px !important;
+  }
+  h6{
+    width: 300px;
+    position: relative;
+    top: 200px;
+   text-align: center;
+   margin-left: 20px;
+   font-size: 20px !important;
+   color: #212124;
+   font-weight: lighter !important;
+   font-family: "Proxima Nova" Helvetica sans-serif;
+  }
+  .t{
+    width: 300px;
+    position: relative;
+    top: 200px;
+   text-align: center;
+   margin-left: 20px;
+   font-size: 14px !important;
+   color: #212124;
+   font-weight: 400 !important;
+   font-family: "Proxima Nova" Helvetica sans-serif;
+  }
+  .con3{
+    position: absolute;
+    top: 470px;
+    left: 700px;
+  }
+  .spans{
+    color: white !important;
+    position: relative;
+    left: -200px;
+    top: 8px;
+  }
+  .a{
+    display: flex;
+    position: absolute;
+    left: -10px;
+    gap: 20px !important;
+    transform: translateY(-18px);
+  }
+  .s1{
+    color: #1783c8 !important;
+  }
+  a{
+    color: white !important;
+    text-decoration: none !important;
+  }
+  span{
+    color: #1783c8;
+  }
+  
+  label{
+    margin-left: -50px;
+    font-size: 14px;
+    box-shadow: none;
+  }
+  select{
+    border: none;
+    color: white;
+  background: inherit;
+  /* width: 200px; */
+  transform: translate(-155px, 7px);
+  font-size: 15px !important;
+  }
+/*   */
+  
+  

@@ -1,0 +1,53 @@
+@media screen and (max-width:475px) {
+h1{
+  font-size: 26px !important;
+ margin-top: -20px !important;
+  transform: translateY(40px);
+  position: relative;
+  left: -25px;
+}
+input{
+  display: none;
+}
+h3{
+  display: none;
+}
+.ton{
+  transform: translateY(50px);
+  margin: auto;
+  position: relative;
+  left: -25px;
+}
+img{
+  /* transform: translateY(100px); */
+  /* width: 20px;
+  height: 20px; */
+}
+.og{
+  transform: translateY(-490px);
+  /* transform: translateX(50px); */
+  background: none;
+  color: white;
+  border: 1px solid transparent;
+  /* background-color: white; */
+  /* margin-left: 100px; */
+}
+.ion{
+  width: 20px;
+  height: 20px;
+  margin-top: -980px;
+  margin-left: 160px;
+}
+.time{
+  transform: translateY(-160px);
+  width: 300px;
+  color: white;
+  /* margin: auto; */
+  text-align: center;
+}
+}
+@media screen and (min-width:475px) {
+  .time{
+    display: none;
+  }
+}

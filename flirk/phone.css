@@ -1,0 +1,97 @@
+@media screen and (max-width:475px) {
+#blue{
+  display: none;
+}
+.flikr{
+transform: translateX(-85px);
+}
+.con2{
+  display: contents;
+}
+button{
+ transform: translateY(30px);
+ margin-left: -12px !important;
+ margin-top: 20px;
+ width: 250px;
+}
+#cd{
+ transform: translateX(-60px);
+}
+#email{
+  transform: translateY(5px);
+ margin-left: -8px !important;
+
+}
+.cap20{
+  transform: translateY(-2px);
+}
+#log{
+  margin-left: -30px;
+}
+.login{
+  transform: translateY(50px);
+ /* margin-left: -3px !important; */
+}
+footer{
+  /* margin-left: 500px; */
+  color: black !important;
+}
+.a{
+  color: black !important;
+  margin-left: -900px;
+  margin-top: 700px;
+}
+#footer{
+  display: grid;
+ transform: translateY(320px);
+ color: #212124;
+ font-size: 16px;
+ font-weight: 400;
+}
+.v{
+  margin-left: 100px;
+  gap: 12px !important;
+  font-size: 16px;
+ font-weight: 400;
+ transform: translateY(-25px);
+}
+.iv{
+  /* transform: translateY(-10px); */
+  font-size: 16px;
+ font-weight: 400;
+}
+*{
+  /* height: 40vh !important; */
+}
+.pan{
+  color: #212124;
+  /* transform: translateY(30px); */
+  /* transform: translateX(10px) !important; */
+  margin-left: 15px;
+/* transform: translateY(100px); */
+  font-size: 14px;
+ font-weight: 400;
+}
+input{
+  width: 250px !important;
+  height: 30px;
+  transform: translateX(5px);
+  /* margin: auto; */
+}
+.kr{
+  margin-left: -30px;
+}
+.t{
+  margin-left: -6px;
+  margin-top: 20px;
+}
+.cap20{
+  transform: translateY(-2px);
+}
+}
+
+ @media screen and (min-width:475px) {
+  #footer{
+    display: none;
+  }
+}

@@ -1,0 +1,56 @@
+@media screen and (max-width:475px) {
+  #blue{
+    display: none;
+    position: relative;
+  }
+  .login{
+    transform: translate(-480px, 50px);
+    text-align: center;
+  }
+  p{
+   position: absolute;
+   left: -1px;
+  }
+  #tim{
+    transform: translate(-500px, 80px);
+    text-align: center; 
+  }
+  input{
+    width: 250px !important;
+    height: 50px !important;
+    margin-left: -10px !important;
+  }
+  button{
+    transform: translate(-510px, 30px);
+    width: 250px !important;
+    height: 30px !important;
+  }
+  .kr{
+    transform: translate(-550px, 20px);
+    text-align: center; 
+  }
+  .flikr{
+  margin-left: -140px;
+  }
+  input{
+    width: 80px;
+    height: 90px;
+  }
+  #p{
+    transform: translate(-510px, 70px) !important;
+  }
+  #already{
+    transform: translate(-510px, 90px) !important;
+  }
+  .login{
+    margin-left: -40px;
+  }
+}
+@media screen and (min-width:475px) {
+  .kr{
+    display: none;
+  }
+  .login{
+    transform: translateY(-12px);
+  }
+}
